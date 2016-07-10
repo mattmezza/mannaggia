@@ -14,9 +14,9 @@
 # released under GNU-GPLv3
 ############################################################
 # parametri da command line:
-# --audio : attiva mplayer per fargli pronunciare i santi
+# --audio : attiva Alice con say per fargli pronunciare i santi
 # --spm <n> : numero di santi per minuto
-# --wall : invia l'output a tutte le console : attenzione , se non siete root o sudoers disattivare il flag -n
+# --wall : invia l'output a tutte le console
 # --nds <n> : numero di santi da invocare (di default continua all'infinito)
 
 audioflag=false
