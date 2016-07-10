@@ -20,7 +20,7 @@
 # --nds <n> : numero di santi da invocare (di default continua all'infinito)
 
 audioflag=false
-spm=1
+spm=3
 spmflag=false
 nds=-1
 pot=-1
