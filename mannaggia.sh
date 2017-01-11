@@ -29,7 +29,7 @@ wallflag=false
 DEFPLAYER="say -v Alice"
 PLAYER="${PLAYER:-$DEFPLAYER}"
 
-TUTTIISANTI=santiebeati
+TUTTIISANTI=/usr/local/bin/santiebeati
 numsanti=0
 while read -r line; do
  ((numsanti++))
