@@ -1,6 +1,13 @@
 mannaggia.sh
 =========
 
+- `brew tap mattmezza/mannaggia`
+- `brew install mannaggia`
+- `mannaggia --audio`
+
+`--audio` uses macOS `say` command to let the computer talk for you, `--spm` a.k.a. saints per minute sets how much you are angry, `--wall` sends the mannaggiament output to every console you have open.
+
+
 Automatic saint invocation for depressed Developers,
 
 it's developed in italian, it can be easily adapted in other languages.
